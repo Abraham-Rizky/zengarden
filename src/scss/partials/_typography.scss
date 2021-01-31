@@ -65,3 +65,7 @@ p {
     line-height: 1.6;
   }
 }
+
+nav[role=navigation]{
+  font-family: $alternative-font;
+}
